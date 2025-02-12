@@ -1,0 +1,56 @@
+body {
+    font-family: Helvetica;
+    font-size: 24px;
+    background-color: rgb(95, 53, 6);
+    color:rgb(255, 255, 255);
+}
+.button1 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    border-radius: 10px;
+    border-style: solid;
+    margin-bottom: 15px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+}          
+.button2 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    border-radius: 10px;
+    border-style: solid;
+    margin-bottom: 15px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.button3 {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    border-radius: 10px;
+    border-style: solid;
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.Thai {
+    width: 50px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.English {
+    width: 50px;
+    height: 34px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.Chinese {
+    width: 50px;
+    height: 34px;
+    object-fit: cover;
+    border-radius: 10px;
+}
